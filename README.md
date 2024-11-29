@@ -46,7 +46,13 @@ This project helps learners:
 3. Run the `Hangman.py` file using the command:  
    ```bash
    python Hangman.py
-   ```  
+   ```
+
+S JAIGANESH
+LINKEDIN PROFILE: https://www.linkedin.com/in/jaiganeshs539/
+   
+
+   
 
 
 
