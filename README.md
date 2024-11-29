@@ -47,9 +47,12 @@ This project helps learners:
    ```bash
    python Hangman.py
    ```
-
+<BR>
 S JAIGANESH
+<BR>
 LINKEDIN PROFILE: https://www.linkedin.com/in/jaiganeshs539/
+<BR>
+VIDEO LINK: https://drive.google.com/file/d/1UwmS8RgQx3Bks2Mo5yU1jpFjjdpaTN3X/view?usp=sharing
    
 
    
